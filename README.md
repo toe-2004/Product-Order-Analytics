@@ -1,4 +1,4 @@
-#  Food Delivery Business Analytics System
+#  Product Order Analytics System
 
 ##  Overview
 This project is an end-to-end **Data Warehouse and Business Analytics system** built for a food delivery business. It transforms raw transactional data (OLTP) into meaningful business insights using a **Star Schema Data Warehouse, ETL process, and Power BI dashboard**.
