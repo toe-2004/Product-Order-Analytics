@@ -6,7 +6,7 @@ This project is an end-to-end **Data Warehouse and Business Analytics system** b
 ---
 
 ##  Business Problem
-Food delivery systems generate large amounts of transactional data, but it is difficult to analyze directly from OLTP systems. Business users need insights such as:
+Product Order systems generate large amounts of transactional data, but it is difficult to analyze directly from OLTP systems. Business users need insights such as:
 
 - Total revenue and order trends
 - Top-selling products
